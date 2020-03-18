@@ -1,5 +1,5 @@
 #!/usr/bin/python
-#!--- coded by ANtqAmE ALi Qasseim --!#
+#!--- coded by Rania Black hat --!#
 #! I LOVE PYTHON !#
 #colors
 wi = "\033[1;37m" 
@@ -43,14 +43,13 @@ def doss():
           '    `Y-.____(__}             '
           '     |     {__)              ' 
           '           ()   V.1.0        '
-
     '''
     print '''
     +---------------------------------+
-    | [+]     Unknowns0xF       [+]  |
-    | [+]  @Unknowns0xF         [+]  |
-    | [+]  @Unknowns_Group      [+]  |
-    | [+]  @Python_Arabi        [+]  |
+    | [+]    Spider---Team       [+]  |
+    | [+]  @Spider_Team0         [+]  |
+    | [+]  @Programmer3          [+]  |
+    | [+]  @PythonP              [+]  |
     +---------------------------------+
     '''
     print'\n'
